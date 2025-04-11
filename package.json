@@ -1,0 +1,53 @@
+{
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fullcalendar/core": "^6.1.15",
+    "@fullcalendar/daygrid": "^6.1.15",
+    "@fullcalendar/interaction": "^6.1.15",
+    "@fullcalendar/list": "^6.1.15",
+    "@fullcalendar/react": "^6.1.15",
+    "@fullcalendar/timegrid": "^6.1.15",
+    "@mui/icons-material": "^6.4.2",
+    "@mui/material": "^6.4.2",
+    "@mui/x-data-grid": "^7.25.0",
+    "@nivo/bar": "^0.88.0",
+    "@nivo/geo": "^0.88.0",
+    "@nivo/line": "^0.88.0",
+    "@nivo/pie": "^0.88.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^14.6.1",
+    "ajv": "^8.17.1",
+    "cors": "^2.8.5",
+    "formik": "^2.4.6",
+    "pg": "^8.13.1",
+    "pg-promise": "^11.10.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-pro-sidebar": "^0.7.1",
+    "react-router-dom": "^7.1.5",
+    "react-scripts": "^5.0.1",
+    "sqlite": "^5.1.1",
+    "web-vitals": "^4.2.4",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "eslint": "^8.57.1",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^4.6.2"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
